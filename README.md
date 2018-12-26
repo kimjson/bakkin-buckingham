@@ -10,9 +10,9 @@
 
 주 2일 다음 중 하나 만족
 
-1. 코드 커밋: github.com/steinkim/프로젝트이름(업데이트 예정) 에서 확인 가능.
+1. 코드 커밋: github.com/steinkim/kofa-telegram-bot 에서 확인 가능.
 2. 코딩한 부분 git diff로 출력해서 스크린샷으로 인증: 완성되지 않아 github에 올리기 곤란할 경우.
-3. 삽질 및 리서치: 알아낸 내용을 github.com/프로젝트이름/wiki 에 정리
+3. 삽질 및 리서치: 알아낸 내용을 github.com/steinkim/kofa-telegram-bot/wiki 에 정리
 
 ### 클리어 기록 정리
 
@@ -20,7 +20,7 @@
 
 1. Github commit 링크를 이 저장소의 위키 문서로 기록
 2. git diff를 코드 포맷팅해서 위키 문서로 기록
-3. 내용을 위키 문서로 기록
+3. 내용 정리한 위키 문서를 이 저장소의 위키 문서로 기록
 
 ### 버킹엄의 정의와 그 가치
 
