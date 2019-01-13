@@ -12,7 +12,7 @@
 
 1. 코드 커밋: https://github.com/steinkim/kofa-telegram-bot 에서 확인 가능.
 2. 코딩한 부분 git diff(변경된 부분을 보여줌)
-3. 삽질 및 리서치: 알아낸 내용을 https://github.com/steinkim/kofa-telegram-bot/wiki 에 정리
+3. 기획 및 리서치(삽질): 내용을 https://github.com/steinkim/kofa-telegram-bot/wiki 에 정리
 
 ### 클리어 기록 정리
 
